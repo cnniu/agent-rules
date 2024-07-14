@@ -1,3 +1,15 @@
+DOMAIN-SUFFIX,aliyun.com
+DOMAIN-SUFFIX,alibaba.com
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,188.com
+DOMAIN-SUFFIX,passport-v6.188.com
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,tencent.com
+DOMAIN-SUFFIX,dns.alidns.com
+DOMAIN-SUFFIX,doh.360.cn
+DOMAIN-SUFFIX,doh.pub
+
+# > IP-CIDR
 IP-CIDR,1.0.1.0/24,no-resolve
 IP-CIDR,1.0.2.0/23,no-resolve
 IP-CIDR,1.0.32.0/19,no-resolve
@@ -16923,6 +16935,8 @@ IP-CIDR,98.124.142.128/28,no-resolve
 IP-CIDR,98.124.142.88/30,no-resolve
 IP-CIDR,99.77.241.0/24,no-resolve
 IP-CIDR,99.83.96.0/24,no-resolve
+
+# > IP-CIDR6
 IP-CIDR6,2001:2000:3080:c80::/64,no-resolve
 IP-CIDR6,2001:2030:0:4d::/64,no-resolve
 IP-CIDR6,2001:2035:0:c80::/64,no-resolve
@@ -21915,9 +21929,8 @@ IP-CIDR6,2c0f:f7a8:9020::/48,no-resolve
 IP-CIDR6,2c0f:f7a8:9041::/48,no-resolve
 IP-CIDR6,2c0f:f7a8:9210::/47,no-resolve
 IP-CIDR6,2c0f:f7a8:9220::/48,no-resolve
-DOMAIN-SUFFIX,dns.alidns.com
-DOMAIN-SUFFIX,doh.360.cn
-DOMAIN-SUFFIX,doh.pub
+
+# > IP-ASN
 IP-ASN,10111,no-resolve
 IP-ASN,10206,no-resolve
 IP-ASN,10212,no-resolve

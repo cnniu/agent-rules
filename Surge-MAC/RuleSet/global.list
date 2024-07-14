@@ -516,3 +516,9 @@ DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,skype.com
+
+# > Notion
+DOMAIN-SUFFIX,notion.so
+
+# > DuoLingo
+DOMAIN-SUFFIX,duolingo.com
