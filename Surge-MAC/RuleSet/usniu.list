@@ -29,13 +29,6 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-KEYWORD,anthropic
 
-# > T-mobile
-DOMAIN-SUFFIX,t-mobile.com
-DOMAIN-SUFFIX,omtrdc.net
-DOMAIN-SUFFIX,quantummetric.com
-DOMAIN-KEYWORD,t-mobile
-DOMAIN-KEYWORD,tmobile
-
 # > PayPal
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,paypal.me
