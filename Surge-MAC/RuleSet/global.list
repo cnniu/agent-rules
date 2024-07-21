@@ -241,7 +241,6 @@ DOMAIN-SUFFIX,widevine.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,zynamics.com
 DOMAIN-KEYWORD,google
-DOMAIN-KEYWORD,.blogspot.
 DOMAIN-SUFFIX,goog
 # > Apple
 
@@ -326,15 +325,20 @@ IP-CIDR,147.92.128.0/17,no-resolve
 IP-CIDR,203.104.144.0/21,no-resolve
 
 # > Meta
+DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,accountkit.com
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,f8.com
 DOMAIN-SUFFIX,facebookmail.com
+DOMAIN-SUFFIX,graph.facebook.com
+DOMAIN-SUFFIX,connect.facebook.net
 DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fb.watch
 DOMAIN-SUFFIX,fbaddins.com
 DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,fbcdn.com
 DOMAIN-SUFFIX,fbsbx.com
 DOMAIN-SUFFIX,fbworkmail.com
 DOMAIN-SUFFIX,instagram.com
@@ -346,7 +350,7 @@ DOMAIN-SUFFIX,readyatdawn.com
 DOMAIN-SUFFIX,rocksdb.org
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
-DOMAIN-KEYWORD,.facebook.
+DOMAIN-KEYWORD,facebook
 
 # > Microsoft
 DOMAIN-SUFFIX,aka.ms
@@ -364,7 +368,7 @@ DOMAIN,az668014.vo.msecnd.net
 
 # > Pinterest
 DOMAIN-SUFFIX,pinimg.com
-DOMAIN-KEYWORD,.pinterest.
+DOMAIN-KEYWORD,pinterest
 
 # > pixiv
 DOMAIN-SUFFIX,pixiv.net
