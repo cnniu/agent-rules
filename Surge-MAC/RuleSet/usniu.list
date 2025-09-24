@@ -4,7 +4,7 @@ DOMAIN-SUFFIX,idme-marketplace.s3.amazonaws.com
 
 # > irs.gov
 DOMAIN-SUFFIX,irs.gov
-dap.digitalgov.gov
+DOMAIN-SUFFIX,dap.digitalgov.gov
 
 # > Openai
 DOMAIN-SUFFIX,algolia.net
