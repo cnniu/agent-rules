@@ -1,3 +1,11 @@
+# > id.me
+DOMAIN-SUFFIX,id.me
+DOMAIN-SUFFIX,idme-marketplace.s3.amazonaws.com
+
+# > irs.gov
+DOMAIN-SUFFIX,irs.gov
+dap.digitalgov.gov
+
 # > Openai
 DOMAIN-SUFFIX,algolia.net
 DOMAIN-SUFFIX,api.statsig.com
