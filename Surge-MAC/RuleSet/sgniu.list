@@ -2,6 +2,12 @@
 DOMAIN-SUFFIX,ocbc.com
 DOMAIN-KEYWORD,ocbc
 
+# > hsbc-hk
+DOMAIN-SUFFIX,hsbc.com.hk
+
+# > boc-hk
+DOMAIN-SUFFIX,bochk.com
+
 # > Telegram
 # source: https://core.telegram.org/resources/cidr.txt
 IP-CIDR,91.108.56.0/22,no-resolve
