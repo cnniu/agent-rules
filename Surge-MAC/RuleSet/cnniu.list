@@ -8,6 +8,8 @@ DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.360.cn
 DOMAIN-SUFFIX,doh.pub
+DOMAIN-SUFFIX,cloudfront.com
+DOMAIN-SUFFIX,cloudfront.net
 
 # > IP-CIDR
 IP-CIDR,1.0.1.0/24,no-resolve
