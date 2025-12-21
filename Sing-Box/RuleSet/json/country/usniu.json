@@ -45,11 +45,16 @@
         "transunion.com",
         "twitter.com",
         "x.com",
-        "numberbarn.com"
+        "numberbarn.com",
+        "anthropic.com",
+        "claude.com",
+        "claude.ai"
       ],
       "domain_keyword": [
         "chatgpt",
         "openai",
+        "claude",
+        "anthropic",
         "paypal",
         "capitalone",
         "chase",
