@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+      ],
+      "domain_suffix": [
+        "binance.com",
+        "www-binance.com",
+        "bnbstatic.com", 
+        "binancecnt.com",
+        "binance.net",
+        "binance.org",
+        "binance.info",
+        "binance.me",
+        "binance.vision", 
+        "binance.charity",
+        "saasexch.com",
+        "saasexch.co"
+      ],
+      "domain_keyword": [
+        "binance"
+      ],
+      "ip_cidr": [
+      ]
+    }
+  ]
+}

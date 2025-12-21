@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+      ],
+      "domain_suffix": [
+        "chatgpt.com",
+        "openai.com",
+        "algolia.net",
+        "api.statsig.com",
+        "auth0.com",
+        "chatgpt.livekit.cloud",
+        "host.livekit.cloud",
+        "client-api.arkoselabs.com",
+        "events.statsigapi.net",
+        "featuregates.org",
+        "identrust.com",
+        "intercom.io",
+        "intercomcdn.com",
+        "launchdarkly.com",
+        "oaistatic.com",
+        "oaiusercontent.com",
+        "observeit.net",
+        "segment.io",
+        "sentry.io",
+        "stripe.com",
+        "turn.livekit.cloud"
+      ],
+      "domain_keyword": [
+        "chatgpt",
+        "openai"
+      ],
+      "ip_cidr": [
+        "24.199.123.28/32",
+        "64.23.132.171/32"
+      ]
+    }
+  ]
+}

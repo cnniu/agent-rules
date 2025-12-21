@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+      ],
+      "domain_suffix": [
+        "anthropic.com",
+        "claude.com",
+        "claude.ai"
+      ],
+      "domain_keyword": [
+        "anthropic",
+        "claude"
+      ],
+      "ip_cidr": [
+      ]
+    }
+  ]
+}
