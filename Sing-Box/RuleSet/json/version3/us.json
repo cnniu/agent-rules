@@ -1,0 +1,41 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain": [
+        "idme-marketplace.s3.amazonaws.com"
+      ],
+      "domain_suffix": [
+        "id.me",
+
+        "irs.gov",
+        "dap.digitalgov.gov",
+
+        "annualcreditreport.com",
+        "equifax.com",
+        "experian.com",
+        "transunion.com",
+
+        "capitalone.com",
+        "chase.com",
+        "referyourchasecard.com",
+        "zellepay.com",
+        "bankofamerica.com",
+        "citi.com",
+        
+        "fidelity.com",
+        "ibkr.com",
+        "interactivebrokers.com",
+
+        "numberbarn.com"
+      ],
+      "domain_keyword": [
+        "capitalone",
+        "interactivebrokers",
+        "numberbarn"
+      ],
+      "ip_cidr": [
+      ]
+    }
+  ]
+}
