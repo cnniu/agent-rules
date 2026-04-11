@@ -3,18 +3,33 @@
   "rules": [
     {
       "domain": [
-        "cdn.usefathom.com"
+        "cdn.usefathom.com",
+        "servd-anthropic-website.b-cdn.net",
+        "anthropic.com.cdn.cloudflare.net",
+        "anthropic.auth0.com",
+        "anthropic-com.ghost.io",
+        "storage.googleapis.com"
       ],
       "domain_suffix": [
         "anthropic.com",
         "claude.com",
-        "claude.ai"
+        "claude.ai",
+        "clau.de",
+        "claudeusercontent.com",
+        "claudemcpclient.com",
+        "intercom.io",
+        "intercomcdn.com",
+        "sentry.io",
+        "statsigapi.net"
       ],
       "domain_keyword": [
         "claude",
-        "anthropic"
+        "anthropic",
+        "sift"
       ],
       "ip_cidr": [
+        "160.79.104.0/21",
+        "2607:6bc0::/32"
       ]
     }
   ]
