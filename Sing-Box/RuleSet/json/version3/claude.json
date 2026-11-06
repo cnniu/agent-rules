@@ -4,6 +4,12 @@
     {
       "domain": [
         "cdn.usefathom.com",
+        "api.anthropic.com",
+        "platform.claude.com", 
+        "http-intake.logs.us5.datadoghq.com", 
+        "browser-intake-us5-datadoghq.com", 
+        "bridge.claudeusercontent.com", 
+        "downloads.claude.ai", 
         "servd-anthropic-website.b-cdn.net",
         "anthropic.com.cdn.cloudflare.net",
         "anthropic.auth0.com",
@@ -16,6 +22,7 @@
         "claude.ai",
         "clau.de",
         "claudeusercontent.com",
+        "claudemcpcontent.com", 
         "claudemcpclient.com",
         "intercom.io",
         "intercomcdn.com",
@@ -25,6 +32,8 @@
       "domain_keyword": [
         "claude",
         "anthropic",
+        "datadog", 
+        "sentry", 
         "sift"
       ],
       "ip_cidr": [
