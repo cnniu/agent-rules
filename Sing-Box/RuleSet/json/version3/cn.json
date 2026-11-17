@@ -3,13 +3,18 @@
   "rules": [
     {
       "domain": [
+        "msmp.abchina.com.cn",
+        "weixin.qq.com",
+        "fglt.net"
       ],
       "domain_suffix": [
-        "msmp.abchina.com.cn",
-        
+        "abchina.com.cn",
+        "qq.com", 
         "fglt.net"
       ],
       "domain_keyword": [
+        "weixin",
+        "abchina"
       ],
       "ip_cidr": [
       ]
