@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain": [
+        "mb.cdn-static.abchina.com.cn", 
         "mb-mbc.cdn-static.abchina.com.cn", 
         "msmp.abchina.com.cn",
         "weixin.qq.com",
