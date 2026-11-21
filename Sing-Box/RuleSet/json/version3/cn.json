@@ -3,13 +3,14 @@
   "rules": [
     {
       "domain": [
-        "mb.cdn-static.abchina.com.cn", 
-        "mb-mbc.cdn-static.abchina.com.cn", 
-        "msmp.abchina.com.cn",
+        "mobilepaas.abchina.com.cn",
+        "msmp.abchina.com.cn", 
+        "firefly.abchina.com.cn", 
         "weixin.qq.com",
         "fglt.net"
       ],
       "domain_suffix": [
+        "abchina.com",
         "abchina.com.cn",
         "qq.com", 
         "fglt.net"
